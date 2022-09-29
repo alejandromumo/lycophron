@@ -1,0 +1,2 @@
+ERROR:root:[CONVERT] Record #16, DOI=10.3201/eid2206.160007 couldn't be converted. Problematic field: invalid syntax (<unknown>, line 1)
+ERROR:root:[CONVERT] Record #136, DOI=10.1016/j.virol.2006.02.041 couldn't be converted. Problematic field: invalid syntax (<unknown>, line 1)
