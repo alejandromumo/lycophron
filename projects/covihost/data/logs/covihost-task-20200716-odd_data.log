@@ -1,0 +1,1 @@
+ERROR:root:[PUSH DATA] Entry number #17, DOI=10.1128/JVI.01394-09, couldn't be posted. Reason: {'status': 400, 'message': "Validation error: {u', object': [u'porcine coronavirus', u'PCoV']} is not valid under any of the given schemas."}. Status Code: 400
